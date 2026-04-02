@@ -1,1 +1,1 @@
-# Typescript-React-Vite-DevContainer-Template
+# Front-end Container Template - Typescript + React + Vite
