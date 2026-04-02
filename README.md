@@ -1,1 +1,1 @@
-# Front-end Container Template - Typescript + React + Vite
+# Frontend Container Template - TypeScript + React + Vite
